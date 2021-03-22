@@ -1,8 +1,8 @@
 ### Hello 👋
 
-My name is **Gabriel**, I am 16 years old and I am in high school.
+My name is **Gabriel**, I am 16 and I am at high school.
 
-I am a lover of technology and my passion is:
+I am a technology lover and my passion is:
 - develop plugins in JavaBukkit;
 - create systems using Node.js;
 - create mobile apps using React Native.
